@@ -31,9 +31,6 @@ Installation:
 
     Clone this repository:
 
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
-
 Configure the connection string in appsettings.json:
 
 "ConnectionStrings": {
