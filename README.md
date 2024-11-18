@@ -42,15 +42,15 @@ Configure the connection string in appsettings.json:
 
 Run database migrations:
 
---dotnet ef database update
+dotnet ef database update
 
 Start the application:
 
---dotnet watch run
+dotnet watch run
 
 The packages that are required to run the application is found in the itemgroup of the DotnetAPI.csproj file.
 
 To add the package for example:
 
---dotnet add package automapper                                                   
+dotnet add package automapper                                                   
 
